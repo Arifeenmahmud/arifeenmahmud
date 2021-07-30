@@ -4,6 +4,7 @@
 
 <i>keep in touch with me@:</i> 
 <a class="facebook" href="https://www.facebook.com/arifeenmahmud" target="_blank">facebook</a>
+<a class="facebook" href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>
 
 <!--
 **Arifeenmahmud/arifeenmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

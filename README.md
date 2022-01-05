@@ -4,7 +4,8 @@
 <br>
 Youtube: https://www.youtube.com/arifeenmahmudroman
 <br><br>
-<i>keep in touch with me@:</i> 
+<i>keep in touch with me@:</i>
+<a ahref="google.com" target="_black">My resume</a>
 <a  href="https://api.whatsapp.com/message/3BDF2ILS27PLN1" target="_blank">WhatsApp</a>
 <a  href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>
 <a  href="https://www.facebook.com/arifeenmahmud" target="_blank">facebook</a>

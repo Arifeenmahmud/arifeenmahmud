@@ -4,6 +4,15 @@
 I am Currently Working on Web and Mobile Application<br><br>I am Looking to Collaborate on Web, Mobile, and Desktop standalone, distributed Java application Developer | Digital Marketer<br><br>I am Looking for Help with Web, Mobile, and Desktop Development | Digital marketing<br><br>I am Currently Learning Mobile Application Development using Java and Flutter Dart.<br><br><br>Feel Free to ask me about Web, Mobile, and Desktop applications. 
 
 
+<h1><a href="https://drive.google.com/file/d/1g9E843qRZdg0WMZWPGexTA96DIY4bvMI/view" target="_black">My CV</a></1h>
+<!-- <h1>Visit My website:</h1> www.arifeenmahmud.com -->
+<br>
+<br><br>
+<i>keep in touch with me@:</i>
+<a  href="https://api.whatsapp.com/message/3BDF2ILS27PLN1" target="_blank">WhatsApp</a>
+<a  href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arifeenmahmud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arifeenmahmud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arifeenmahmud) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahmudarifeen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arifeen-Mahmud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12747732) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arifeen_mahmud) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/arifeenmahmudroman) 
 
@@ -24,16 +33,6 @@ I am Currently Working on Web and Mobile Application<br><br>I am Looking to Coll
 
 
 
-<h1><a href="https://drive.google.com/file/d/1g9E843qRZdg0WMZWPGexTA96DIY4bvMI/view" target="_black">My CV</a></1h>
-<!-- <h1>Visit My website:</h1> www.arifeenmahmud.com -->
-<br>
-Youtube: https://www.youtube.com/arifeenmahmudroman
-<br><br>
-<i>keep in touch with me@:</i>
-<a  href="https://www.linkedin.com/in/arifeenmahmud" target="_blank">Linkedin</a>
-<a  href="https://api.whatsapp.com/message/3BDF2ILS27PLN1" target="_blank">WhatsApp</a>
-<a  href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>
-<a  href="https://www.facebook.com/arifeenmahmud" target="_blank">facebook</a>
 
 <!--
 **Arifeenmahmud/arifeenmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

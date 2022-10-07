@@ -8,7 +8,6 @@ I am Currently Working on Web and Mobile Application<br><br>I am Looking to Coll
 <h1><a href="https://drive.google.com/file/d/1g9E843qRZdg0WMZWPGexTA96DIY4bvMI/view" target="_black">My CV</a></1h>
 <!-- <h1>Visit My website:</h1> www.arifeenmahmud.com -->
 <br>
-<br><br>
 <i>keep in touch with me@:</i>
 <a  href="https://api.whatsapp.com/message/3BDF2ILS27PLN1" target="_blank">WhatsApp</a>
 <a  href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>

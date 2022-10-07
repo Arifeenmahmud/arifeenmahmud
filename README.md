@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Hey , <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="Girl in a jacket" width="50" height="50"> Welcome to my GitHub.
+### Hey , <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="Girl in a jacket" width="50" height="40"> Welcome to my GitHub.
 
 
 <!-- <h1>Visit My website:</h1> www.arifeenmahmud.com -->

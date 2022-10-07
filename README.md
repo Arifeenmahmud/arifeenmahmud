@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="Girl in a jacket" width="50" height="60">
+### Hey , <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="Girl in a jacket" width="50" height="60"> Welcome to my GitHub.
 
 I am Currently Working on Web and Mobile Application<br><br>I am Looking to Collaborate on Web, Mobile, and Desktop standalone, distributed Java application Developer | Digital Marketer<br><br>I am Looking for Help with Web, Mobile, and Desktop Development | Digital marketing<br><br>I am Currently Learning Mobile Application Development using Java and Flutter Dart.<br><br><br>Feel Free to ask me about Web, Mobile, and Desktop applications. 
 

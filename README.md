@@ -9,8 +9,8 @@
 <br>
 <br>
 <i>keep in touch with me@:</i>
-<a  href="https://api.whatsapp.com/message/3BDF2ILS27PLN1" target="_blank">WhatsApp</a>
-<a  href="https://join.skype.com/invite/AynmAEfOBzPi" target="_blank">Skype</a>
+<a  href="https://wa.me/+8801752872620" target="_blank">WhatsApp</a>
+<a  href="https://teams.live.com/l/invite/FEAxHJfxw1uDM8kdAE?v=g1" target="_blank">Teams</a>
 
 
 <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>

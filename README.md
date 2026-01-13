@@ -13,7 +13,7 @@
 <a  href="https://teams.live.com/l/invite/FEAxHJfxw1uDM8kdAE?v=g1" target="_blank">Teams</a>
 
 
-<img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<!-- <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/> -->
 
 I am Currently Working on Web and Mobile Application<br><br>I am Looking to Collaborate on Web, Mobile, and Desktop standalone, distributed Java application Developer | Digital Marketer<br><br>I am Looking for Help with Web, Mobile, and Desktop Development | Digital marketing<br><br>I am Currently Learning Mobile Application Development using Java and Flutter Dart.<br><br><br>Feel Free to ask me about Web, Mobile, and Desktop applications. 
 

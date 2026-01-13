@@ -15,7 +15,16 @@
 
 <!-- <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/> -->
 
-I am Currently Working on Web and Mobile Application<br><br>I am Looking to Collaborate on Web, Mobile, and Desktop standalone, distributed Java application Developer | Digital Marketer<br><br>I am Looking for Help with Web, Mobile, and Desktop Development | Digital marketing<br><br>I am Currently Learning Mobile Application Development using Java and Flutter Dart.<br><br><br>Feel Free to ask me about Web, Mobile, and Desktop applications. 
+I am a <strong>Web and Mobile Application Developer</strong> with experience in building scalable, user-centric applications.<br><br>
+
+I am open to <strong>collaborating on Web, Mobile, and Desktop applications</strong>, including standalone and distributed <strong>Java-based systems</strong>, as well as <strong>digital marketing projects</strong>.<br><br>
+
+I actively seek opportunities to work on <strong>Web, Mobile, and Desktop development</strong> projects and to contribute to <strong>digital marketing initiatives</strong> that drive growth and engagement.<br><br>
+
+Currently, I am <strong>expanding my expertise in mobile application development</strong> using <strong>Java and Flutter (Dart)</strong>.<br><br>
+
+Feel free to <strong>reach out to discuss Web, Mobile, or Desktop application development</strong>, or to explore potential collaboration opportunities.
+
 
 
 <h1><a href="https://drive.google.com/file/d/1V6MuBzN1lAj0-E-ITcjfmW5EFGXdBRsB/view?usp=sharing" target="_black">My CV</a></1h>
